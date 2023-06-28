@@ -1,0 +1,8 @@
+I used a large data set on this dashboard and experimented with different visualisation options. 
+It has the ability to showcase the diffrent countries and their ability and willingness to get vaccinated and the time period it took.
+The top line chart dataset, was only focused on North America and show that data can be filtered to a specific outcome to only show
+relevant information. 
+Bar Charts were used to indicate the vaccination rate in relation to the world.
+Last but not least, the bubble chart indicate what persentage of income earners received the vaccine. 
+
+https://public.tableau.com/app/profile/jo.moore/viz/WorldCovidData_16814860378150/WorldCovidData
