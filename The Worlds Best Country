@@ -1,1 +1,11 @@
+I used the data to showcase some of the data ones might use to determine which Country peoples are the happiest in and what 
+factors might lead to happiness.
+It provides an overall map of the world with colour codes of different levels of happiness.
+To the right of the report are four scales that can be adjusted to show instant data manipulation and provide interactive 
+result-driven output.
+The centre part of the report shows population generosity as well as Gov spending on their infrastructure and quality of life.
+The bottom two parts are split into Gov trust and Life Expectancy.
+A correlation between the Population's Happiness, Gov Corruption, Life Expectancy and Generosity can be drawn. 
+
+
 https://public.tableau.com/app/profile/jo.moore/viz/WorldsBestCountry/Dashboard1
